@@ -1,2 +1,2 @@
 #  SAII: Sistema Auditivo de Integración Informática
-Desarrollado por LRusso.com.ar
+SAII by Leonardo Javier Russo (contacto@lrusso.com.ar).
